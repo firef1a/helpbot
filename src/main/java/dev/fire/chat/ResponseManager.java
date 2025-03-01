@@ -226,7 +226,6 @@ public class ResponseManager {
 
     public void saveFile() {
         this.save();
-        ChatUtils.displayChatMessageToPlayer(Text.literal("☈ Saved " + balance_file + "!"));
     }
 
 }
