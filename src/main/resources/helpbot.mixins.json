@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "dev.fire.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"hud.MChatHud"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
